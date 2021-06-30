@@ -67,3 +67,5 @@
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+
+cmake-build-debug
